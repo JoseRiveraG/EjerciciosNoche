@@ -1,10 +1,5 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: ADMINPVD
- * Date: 08/02/2017
- * Time: 7:10 PM
- */
+
+
 <form id="form1" name="form1" method="post" action="">
 
     <h2>Pedir un número entre 0 y 9.999 y mostrarlo con las cifras al revés </h2>
