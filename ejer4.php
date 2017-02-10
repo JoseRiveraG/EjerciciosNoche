@@ -1,4 +1,4 @@
-
+﻿
 
 <form id="form1" name="form1" method="post" action="">
 
@@ -8,7 +8,7 @@
         <input type="text" name="numero" id="numero" />
         <br>
 
-        <input type="submit" name="enviar" id="enviar" value="Enviar" />
+        <input type="button" name="enviar" id="enviar" value="Enviar" />
 
       </p>
 
